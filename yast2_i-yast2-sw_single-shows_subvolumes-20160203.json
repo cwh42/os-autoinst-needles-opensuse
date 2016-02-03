@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 174,
+      "ypos": 416,
+      "width": 85,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-sw_single-shows_subvolumes"
+  ],
+  "properties": []
+}
